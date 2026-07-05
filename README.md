@@ -1,7 +1,8 @@
 # vits Android部署
 
 release 资源的models是发音人角色模型，放在对应download文件夹下
-![Uploading image.png…]()
+<img width="712" height="1276" alt="image" src="https://github.com/user-attachments/assets/698dd80a-33b5-4e56-903d-5f5b8bdb75ff" />
+
 
 
 # 介绍
