@@ -1,5 +1,9 @@
 # vits Android部署
 
+release 资源的models是发音人角色模型，放在对应download文件夹下
+![Uploading image.png…]()
+
+
 # 介绍
 
 1.中日英cleaners基于[MoeGoe](https://github.com/CjangCjengh/MoeGoe)项目二次开发
