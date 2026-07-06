@@ -78,7 +78,7 @@ releases 资源的[models](https://github.com/weirdseed/Vits-Android-ncnn/releas
 └─vits
 ```
 
-2.1 自行编译ncnn，请注意，ncnn默认的编译选项中rtti为关闭状态，需要的话自己手动打开，编译教程见[链接](https://github.com/Tencent/ncnn/wiki/how-to-build)
+2.1 自行编译ncnn，请注意，ncnn默认的编译选项中rtti为关闭状态，需要的话自己手动打开，编译教程见[链接](https://github.com/Tencent/ncnn/wiki/how-to-build) 这个工程测试下来，这个ncnn已经有编辑的压缩包供下载了，不需要自己去编。
 
 3、下载openjtalk[字典文件](https://sourceforge.net/projects/open-jtalk/files/Dictionary/open_jtalk_dic-1.11/open_jtalk_dic_utf_8-1.11.tar.gz/download)解压到\src\main\assets文件夹，目录结构为
 
@@ -92,7 +92,7 @@ releases 资源的[models](https://github.com/weirdseed/Vits-Android-ncnn/releas
 
 # 使用自己训练的模型
 
- https://github.com/weirdseed/vits-ncnn-convert-tool
+ https://github.com/weirdseed/vits-ncnn-convert-tool， 运行工程只需要models.zip的搞好的模型，训练自己的模型我还没有去测试
 
 # 预览图
 ![Screenshot_1674308191](https://user-images.githubusercontent.com/57377927/213869491-daef85ca-7ea6-4e1f-b075-a71f415e8fc6.png) ![Screenshot_1674308391](https://user-images.githubusercontent.com/57377927/213869498-61388e28-d52a-439a-b212-43ed3c98469a.png)
