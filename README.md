@@ -1,6 +1,6 @@
 # vits Android部署
 
-releases 资源的[models](https://github.com/weirdseed/Vits-Android-ncnn/releases/download/v1.2.1/models.zip)是发音人角色模型，放在对应download文件夹下
+releases 资源的[models](https://github.com/weirdseed/Vits-Android-ncnn/releases/download/v1.2.1/models.zip)是发音人角色模型，放在对应download文件夹下，这个app貌似只能是日语，因为models.zip里面的模型都是日语的语音人物。
 <img width="712" height="1276" alt="image" src="https://github.com/user-attachments/assets/698dd80a-33b5-4e56-903d-5f5b8bdb75ff" />
 
 
